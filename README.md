@@ -34,14 +34,6 @@ r  = 0.05   # taux sans risque
 q  = 0      # taux de dividende
 ```
 
-## Technologies
-
-```
-numpy
-scipy
-matplotlib
-```
-
 
 
 ## Limites et perspectives
